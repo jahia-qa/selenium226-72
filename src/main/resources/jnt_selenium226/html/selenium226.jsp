@@ -17,4 +17,4 @@
 <%--@elvariable id="renderContext" type="org.jahia.services.render.RenderContext"--%>
 <%--@elvariable id="currentResource" type="org.jahia.services.render.Resource"--%>
 <%--@elvariable id="url" type="org.jahia.services.render.URLGenerator"--%>
-<h2>SELENIUM226 VERSION 1.0</h2>
+<h2>SELENIUM226 VERSION 2.0</h2>
